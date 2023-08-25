@@ -32,9 +32,10 @@ div {
 
 nav {
   border: 3px solid blue;
+  font-size:18px ;
   padding: 10px;
-  margin: 60px 20px;
-  width: 50%;
+  margin: auto;
+  width: 30%;
   float: inherit;
 }
 
