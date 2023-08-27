@@ -64,11 +64,17 @@ p {
   padding-left: 40px;
   padding-right: 40px;
 }
-ul, ol {
+ul {
   color: wheat;
   padding-left: 20px;
   margin: auto; 
   width: 275px; 
+}
+ol {
+ color: wheat;
+  padding-left: 10px;
+  margin: auto;
+  width: 250px;
 }
 li {
   text-align: center;
