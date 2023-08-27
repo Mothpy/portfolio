@@ -64,7 +64,7 @@ p {
   padding-left: 40px;
   padding-right: 40px;
 }
-ul  {
+ul, ol {
   color: wheat;
   padding-left: 20px;
   margin: auto; 
